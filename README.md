@@ -1,5 +1,5 @@
-# A Progressive Fusion Generative Adversarial Network for Realistic and Consistent Video Super-Resolution
-This work is based on [Yi et al.](https://github.com/psychopa4/PFNL)
+# [A Progressive Fusion Generative Adversarial Network for Realistic and Consistent Video Super-Resolution](https://ieeexplore.ieee.org/document/9279273)
+This work is based on [PFNL](http://openaccess.thecvf.com/content_ICCV_2019/html/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.html) by [Yi et al.](https://github.com/psychopa4/PFNL)
 This is the TensorFlow version, and PyTorch version will be available.
 
 ## Datasets
